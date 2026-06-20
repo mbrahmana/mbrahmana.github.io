@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://sitemaps.org">
+
+  <!-- Your Main Book Homepage Link -->
   <url>
     <loc>https://whentheselfgetsintheway.com</loc>
     <lastmod>2026-06-19</lastmod>
     <priority>1.0</priority>
   </url>
-  <url>
-    <loc>https://whentheselfgetsintheway.combooks.html</loc>
-    <lastmod>2026-06-19</lastmod>
-    <priority>0.8</priority>
-  </url>
+
 </urlset>
